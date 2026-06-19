@@ -4,8 +4,8 @@ title: Oliver Ni
 description: subtitle | affiliations | motto
 
 baseurl: /oliverni016.github.io #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+url: "oliverni.net" #custom url to be used instead of GitHub repository
+email: oliverni016 [at] gmail.com #
 
 # Pagination
 paginate: 4
