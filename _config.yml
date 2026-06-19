@@ -13,7 +13,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
+linkedin: "https://www.linkedin.com/in/oliverni016/"
 stackoverflow: "#"
 github: "#"
 researchgate: "#"
