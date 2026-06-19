@@ -7,15 +7,13 @@ profile:
 published: true
 ---
 
-### Hey there!
+Hey there! My name is Oliver Ni, and I'm a recent graduate of Georgetown University's School of Foreign Service.
 
-My name is Oliver Ni, and I'm a recent graduate of Georgetown University's School of Foreign Service.
+I'm particularly interested in how the different dimensions of infrastructure — be it physical, political, or social — influence one another and shape development efforts worldwide.
 
-I'm particularly interested in XXX blah blah blah XXX
+I've previously worked as a research intern for Issue One and the Southern Poverty Law Center. xx blah blah keep filling xx
 
-I've previously worked as a research intern for Issue One and the Southern Poverty Law Center. At Issue One, I analyzed 
-
-Questions? Ruminations? Or just want to chat? Email me at oliverni016 [[at]] gmail.com!
+Questions? Ruminations? Or just want to chat? Email me at oliverni016 [at] gmail.com!
 
 [Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
 
