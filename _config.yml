@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Oliver Ni
-description: subtitle | affiliations | motto
+description: Researcher & Advocate
 
 baseurl: /oliverni016.github.io #name of GitHub repository
 url: "oliverni.net" #custom url to be used instead of GitHub repository
@@ -14,14 +14,8 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 linkedin: "oliverni016"
-stackoverflow: "#"
 github: "oliverni016"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
+twitter: "#"
 
 # Markdown
 highlighter: rouge
