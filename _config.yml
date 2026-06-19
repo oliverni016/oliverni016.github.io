@@ -13,9 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "https://www.linkedin.com/in/oliverni016/"
+linkedin: "oliverni016"
 stackoverflow: "#"
-github: "#"
+github: "oliverni016"
 researchgate: "#"
 orcid: "#"
 quora: "#"
