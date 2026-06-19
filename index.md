@@ -7,7 +7,9 @@ profile:
 published: true
 ---
 
-Hey there! My name is Oliver Ni, and I'm a recent graduate of Georgetown University's School of Foreign Service.
+##Hey there! 
+
+My name is Oliver Ni, and I'm a recent graduate of Georgetown University's School of Foreign Service.
 
 I'm particularly interested in XXX blah blah blah XXX
 
